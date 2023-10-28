@@ -57,7 +57,7 @@ body{
     
     background-image: url(img.jpg);
     background-repeat: no-repeat;
-    background-size: 1370px 900px;
+    background-size: auto;
    
     
     margin-top:100px;
